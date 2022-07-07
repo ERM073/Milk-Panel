@@ -1,8 +1,16 @@
 # Milk-Panel
- 
+
+**Milk Panelは開発 初期段階です。**
+
+半分以上の機能が機能しません。
+
+<img src="https://i.ibb.co/552MbSZ/2022-07-07-17h14-27.png" width="680" height="350">
+
+
 ## 機能
 
 * Appache,PHP,MySQLの自動インストール
+
 * ファイルマネージャー搭載
 * シンプルなUI
 * 完全無料
