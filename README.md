@@ -1,7 +1,4 @@
 # Milk-Panel
-
-# Lazy-Panel
-**A open sourse Light weight Web Control Panel**
  
 ## 機能
 
